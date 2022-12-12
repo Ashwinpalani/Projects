@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: User-12
+Build-Jdk: 18.0.2.1
+Implementation-Title: springboot-thymeleaf-crud-tutorial
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: net.javaguides.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot-thymeleaf-crud-tutorial
+Created-By: Maven Integration for Eclipse
+
